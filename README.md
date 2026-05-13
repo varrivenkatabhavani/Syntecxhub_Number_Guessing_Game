@@ -22,8 +22,5 @@ Loops and conditional statements
 Random module usage
 User input handling
 Basic game logic implementation
-
-
 Author
-
 Venkata Bhavani
